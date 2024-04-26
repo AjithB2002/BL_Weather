@@ -1,0 +1,15 @@
+.Heading{
+    font-size: 19px;
+    font-weight: 700;
+}
+.data{
+    color: rgb(255, 0, 0);
+    font-weight: 500;
+}
+.fonticon{
+    color: gold;
+   }
+.weatherimg{
+border: 2px solid black;
+background-color: rgb(49, 255, 173);
+}

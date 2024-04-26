@@ -1,0 +1,10 @@
+.navbar{
+    background-color: rgb(0, 0, 0);
+}
+
+.weather{
+   font-size: 26px;
+   font-weight: 700;
+   font-family: 'Times New Roman', Times, serif;
+   color:rgb(255,215,0);
+}
