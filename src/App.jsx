@@ -10,7 +10,7 @@ function App() {
       <BrowserRouter>
       <NavigationBar/>
       <Routes>
-        <Route path="/BL_WEATHER" element={<Homepage/>}/>
+        <Route path="/BL_Weather" element={<Homepage/>}/>
       </Routes>
       </BrowserRouter>
     </>
