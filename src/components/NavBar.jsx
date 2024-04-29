@@ -8,7 +8,7 @@ function NavBar() {
   <div className="container-fluid ">
   <a className="navbar-brand mx-auto" href="#">
       <img src={logo} alt="Logo" width="40" height="39" className="d-inline-block align-text-top pb-1"/>
-     <span className='weather'>BL WEATHER APP</span>
+     <span className='weather'>BL GLOBAL WEATHER GUIDE</span>
     </a>
   </div>
 </nav>
