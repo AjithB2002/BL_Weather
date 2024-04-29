@@ -8,3 +8,10 @@
    font-family: 'Times New Roman', Times, serif;
    color:rgb(255,215,0);
 }
+
+@media only screen and (max-width: 600px) {
+    .weather{
+        font-size: 22px;
+        font-weight: 700;
+     }
+  }
