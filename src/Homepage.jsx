@@ -31,7 +31,7 @@ function Homepage() {
         });
       },
       () => {
-       alert("Please enable location access in your device settings to continue.");
+       alert("Please enable location access in your device settings and Refresh the page.");
       }
     );
   }, []);
